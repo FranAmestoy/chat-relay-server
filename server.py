@@ -38,10 +38,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-```
-
-**Where to place this:** You'll upload it to Render.com (I'll show you how)
-
-## 3. **requirements.txt** (for Render.com)
-```
-websockets==12.0
